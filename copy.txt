@@ -1,0 +1,7 @@
+<div class="fitem">Microsoft
+<div class="fitem">365 
+<div class="fitem">Teams 
+<div class="fitem">Windows 
+<div class="fitem">Surface 
+<div class="fitem">Xbox 
+<div class="fitem">Support
